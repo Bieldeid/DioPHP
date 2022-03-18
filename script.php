@@ -6,7 +6,7 @@ $categorias[] = 'adolescente';
 $categorias[] = 'adulto';
 // print_r($categorias);
 
-$nome = 'Deid';
+$nome = $_POST[nome];
 $idade = 14;
 
 // var_dump($nome);
